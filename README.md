@@ -1,11 +1,8 @@
-### Hi there 👋
+<!-- @format -->
 
-<!--
-**gsakshay/gsakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Akshay!
 
-👋 Hi, I'm Akshay!
-
-💼 Software Engineer | 🎓 Pursuing Master's at Khoury College of CS
+## 💼 Software Engineer | 🎓 Pursuing Master's at Khoury College of CS
 
 🔧 Tech Stack: C, Java, Python, TypeScript, JavaScript, R, SQL
 ⚛️ Web Technologies: React.js, Next.js, Vue.js, Redux, Express.js, GraphQL
