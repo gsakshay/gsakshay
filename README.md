@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### 👋 Hi, I'm Akshay!
+# 👋 Hi, Great to see you here!
 
 ## 💼 Software Engineer | 🎓 Pursuing Master's at Khoury College of CS
 
