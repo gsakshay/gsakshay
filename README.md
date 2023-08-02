@@ -18,7 +18,7 @@
 
 Let's connect and build the future of technology together!
 
-![Profile Views](https://komarev.com/ghpvc/?gsakshay)
+![Profile Views](https://komarev.com/ghpvc/?user=gsakshay)
 
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=gsakshay)
 
