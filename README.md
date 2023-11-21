@@ -33,5 +33,3 @@
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=gsakshay)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsakshay&layout=compact)
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gsakshay&show_icons=true&locale=en" alt="gsakshay" /></p>
