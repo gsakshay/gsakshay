@@ -1,27 +1,37 @@
 <!-- @format -->
 
-# 👋 Hi, Great to see you here!
+# Hello! I am Akshay
 
 ## 💼 Software Engineer | 🎓 Pursuing Master's at Khoury College of CS
 
-🔧 Tech Stack: C, Java, Python, TypeScript, JavaScript, R, SQL
-⚛️ Web Technologies: React.js, Next.js, Vue.js, Redux, Express.js, GraphQL
-🗄️ Databases: MySQL, MongoDB, PostgreSQL, DynamoDB
-
-💡 Contributed to projects driving innovation and solving complex challenges.
-🚀 Designed Microservices increasing recyclers' revenue by 40% and optimizing order processing.
-📈 Created recipe creation software, reducing time by 90% and introducing captivating features.
-
-🌱 Volunteered as a Web Developer at "Project StepOne" NGO, providing teleconsultations to millions.
-
 👨‍💻 Seeking internship/co-op opportunities in Software Engineering and Full-Stack Development from Spring 2024.
 
-Let's connect and build the future of technology together!
+🚀 Passionate software developer with a relentless pursuit of excellence, merging cutting-edge technology with user-centric design to drive impactful solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=gsakshay)
+* Proficient in JavaScript, Python, and Web Development.
+* Well-versed in Algorithms and Object-oriented Programming.
+* Enthusiastic about building large and scalable systems.
+* Teaching Assistant at Northeastern University's Khoury College engaging students with Discrete Structures course.
+* Former Software Engineer Intern at Maestro Technologies and Nymble, delivering 5+ robust and scalable systems.
+* Eager to learn and improve, expand boundaries, and build innovative solutions.
+* Volunteered as a Web Developer at "Project StepOne" NGO, providing teleconsultations to millions.
+* Let's connect: [https://www.linkedin.com/in/gsakshay/](https://www.linkedin.com/in/gsakshay/)
+* Email: gsakshay20002000@gmail.com ✉️
+* Let's connect and build the future of technology together!
+
+### Skills
+
+| Languages        | Web Technologies                        | Databases & OS     | AWS Cloud                    |
+|------------------|-----------------------------------------|--------------------|------------------------------|
+| HTML, CSS        | React.js, Next.js, Redux                | MySQL              | Lambda, DynamoDB, CodeCommit |
+| Java             | Express.js, Node.js, Flask, GraphQL     | PostgreSQL         | CodePipeline, API Gateway    |
+| C, Python, R     | HTTP, RESTful, Git, Docker, Kubernetes  | MongoDB            | S3, EC2, CloudFront          |
+| JavaScript, TS   | Firebase                                | Redis              | Cognito                      |
+| SQL, NoSQL       |                                         | Unix, Linux        |                              |
+
 
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=gsakshay)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsakshay&layout=compact)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gsakshay)
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gsakshay&show_icons=true&locale=en" alt="gsakshay" /></p>
