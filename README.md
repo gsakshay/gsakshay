@@ -55,3 +55,14 @@ Implements a deep learning model for sequential sentence classification in medic
 
 
 🌟 Let's collaborate and build the future of technology together! 🌟
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gsakshay&show_icons=true&locale=en" alt="Akshay GS" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsakshay&" alt="Akshay GS" />
+    </td>
+  </tr>
+</table>
