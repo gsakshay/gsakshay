@@ -2,8 +2,6 @@
 
 ## Software Engineer | CS Master's Student @ Northeastern University
 
-🔍 **Actively seeking Full-time roles in Software Engineering and Full-Stack Development** (May 2025)
-
 🚀 Passionate about building impactful, scalable systems and user-centric solutions. Proficient in **JavaScript, Python, Web Development**, and **Distributed Systems**.
 
 ## Experience
