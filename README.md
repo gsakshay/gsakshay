@@ -11,15 +11,19 @@ From modernizing financial services at Annaly Capital Management to delivering s
 
 ### Distributed Systems
 
-1. [Membership Algorithm](https://github.com/gsakshay/Membership-Algorithm)
+1. [Paxos Consensus](https://github.com/gsakshay/paxos)
+Implements Paxos consensus algorithm mimicking asynchronous settings.
+2. [Membership Algorithm](https://github.com/gsakshay/Membership-Algorithm)
 Implements a membership algorithm in a distributed system for peer joining, leaving, and failure detection. Uses Go programming language and Docker for deployment.
-2. [Chandy-Lamport-Snapshot-Algorithm](https://github.com/gsakshay/Chandy-Lamport-Snapshot-Algorithm)
+3. [Chandy-Lamport-Snapshot-Algorithm](https://github.com/gsakshay/Chandy-Lamport-Snapshot-Algorithm)
 Implements the Chandy-Lamport algorithm for consistent global snapshot recording in a distributed system. Uses Docker and Docker Compose for deployment.
-3. [n-peers](https://github.com/gsakshay/n-peers)
+4. [n-peers](https://github.com/gsakshay/n-peers)
 Implements a peer-to-peer communication system using UDP sockets where peers exchange heartbeats and acknowledgments. Utilizes Docker for containerization.
 
+### Big Data
+1. [English Premier League Analytics](https://github.com/gsakshay/Real-time-English-Premier-League-Analytics)
 
-## Object-Oriented Design, Programming Design Patterns
+### Object-Oriented Design, Programming Design Patterns
 
 1. [Image Processing and Enhancement Software](https://github.com/gsakshay/Image-Processing-and-Enhancement-Software)
 Advanced image manipulation and enhancement software using Java Swing, built on robust design principles such as MVC, Factory, Strategy, and Facade patterns.
@@ -28,7 +32,7 @@ Updated version of the image processing software wrapped in SpringBoot, providin
 3. [DesignPatterns](https://github.com/gsakshay/DesignPatterns)
 Repository focusing on various design patterns, including Creational, Behavioral, and Structural patterns, with practical examples and usage guidelines.
 
-## Web Development (Full Stack)
+### Web Development (Full Stack)
 
 1. [AssetBlend-frontend](https://github.com/gsakshay/assetBlend-frontend) & [AssetBlend-backend](https://github.com/gsakshay/assetBlend-backend)
 Portfolio tracker application for stocks and cryptocurrencies. Frontend built with React, Redux, and Material-UI. Backend built with Node.js, Express.js, and MongoDB, utilizing CQRS architecture and Gateway design pattern.
@@ -41,15 +45,22 @@ API for face detection using machine learning models.
 5. [Secrets](https://github.com/gsakshay/Secrets)
 A web application managing user secrets securely.
 
+### LLM and AI Agents
+1. [VCT Gen AI](https://github.com/gsakshay/vct-gen-ai)
+Developed an AWS serverless platform integrating Bedrock LLMs and AI Agents to process 16+ TB of esports data with real-time analytics, OpenSearch indexing, Athena querying, and Cheerio-based data enrichment.
 
-## Machine Learning
+### Machine Learning
 
 1. [SSCIMA](https://github.com/gsakshay/SSCIMA)
 Implements a deep learning model for sequential sentence classification in medical abstracts, using NLP techniques for classifying sentences into Background, Objective, Method, Result, or Conclusion.
-2. [Flamescope](https://github.com/gsakshay/Flamescope)
-3. [Dog Vision](https://github.com/gsakshay/Dog-Vision)
-4. [ML-Projects](https://github.com/gsakshay/ML-Projects)
+2. [Dog Vision](https://github.com/gsakshay/Dog-Vision)
+End-to-end Multil-class Dog Breed Classification using Transfer Learning on image dataset.
+3. [ML-Projects](https://github.com/gsakshay/ML-Projects)
+Implemented all the preprocessing and insights-driven mechanisms for:
+  * Bulldozer price prediction (Time Series Regression)
+  * Heart Disease Classification
 5. [ML Practices and exercises](https://github.com/gsakshay/ML-Practices-and-exercies)
+Playground for multiple models and testing.
 
 
 🌟 Let's collaborate and build the future of technology together! 🌟
