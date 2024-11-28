@@ -22,6 +22,7 @@ Implements a peer-to-peer communication system using UDP sockets where peers exc
 
 ### Big Data
 1. [English Premier League Analytics](https://github.com/gsakshay/Real-time-English-Premier-League-Analytics)
+ Processes live-streamed English Premier League (EPL) match data using Spark Streaming and HDFS for fault-tolerant storage
 
 ### Object-Oriented Design, Programming Design Patterns
 
