@@ -17,8 +17,8 @@ Implements Paxos consensus algorithm mimicking asynchronous settings.
 Implements a membership algorithm in a distributed system for peer joining, leaving, and failure detection. Uses Go programming language and Docker for deployment.
 3. [Chandy-Lamport-Snapshot-Algorithm](https://github.com/gsakshay/Chandy-Lamport-Snapshot-Algorithm)
 Implements the Chandy-Lamport algorithm for consistent global snapshot recording in a distributed system. Uses Docker and Docker Compose for deployment.
-4. [n-peers](https://github.com/gsakshay/n-peers)
-Implements a peer-to-peer communication system using UDP sockets where peers exchange heartbeats and acknowledgments. Utilizes Docker for containerization.
+4. [chord](https://github.com/gsakshay/DHT)
+Implements chord-like distributed key-value store.
 
 ### Big Data
 1. [English Premier League Analytics](https://github.com/gsakshay/Real-time-English-Premier-League-Analytics)
