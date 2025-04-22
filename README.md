@@ -10,7 +10,7 @@ From modernizing financial services at Annaly Capital Management to delivering s
 ## Projects
 
 ### RAG Appplication
-1. [VCT Gen AI](https://github.com/gsakshay/vct-gen-ai) | Part of AWS VCT Hackathon (https://devpost.com/software/vct-scout) | [Won 2nd place globally] (https://press.aboutamazon.com/2024/12/aws-and-riot-games-announce-the-winner-of-the-valorant-champions-tour-hackathon-esports-manager-challenge)
+1. [VCT Gen AI](https://github.com/gsakshay/vct-gen-ai) | [Part of AWS VCT Hackathon](https://devpost.com/software/vct-scout) | [Won 2nd place globally](https://press.aboutamazon.com/2024/12/aws-and-riot-games-announce-the-winner-of-the-valorant-champions-tour-hackathon-esports-manager-challenge)
 Developed an AWS serverless platform integrating Bedrock LLMs and AI Agents to process 16+ TB of esports data with real-time analytics, OpenSearch indexing, Athena querying, and Cheerio-based data enrichment.
 2. [LinkedLens](https://github.com/gsakshay/LinkedLens)
 Built a RAG-powered conversational assistant for LinkedIn, enabling real-time summarization of job and recruiter content using LangChain, Gemini Flash 2.0, Pinecone, and FastAPI with OpenWebUI.
